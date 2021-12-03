@@ -6,11 +6,11 @@
   </a>
 </p>
 
-<img src="https://github.com/PedroCastilhos/toDoList-JavaScript/blob/main/printscreen.png?raw=true" alt="List image">
+<p align="center"><img src="https://github.com/PedroCastilhos/toDoList-JavaScript/blob/main/printscreen.png?raw=true" alt="List image"></p>
 
 ## 💻 Project
 
-This project is a To do List create in JavaScript.
+This project is a To do List created in JavaScript.
 
 ## ✨ Technologies
 
