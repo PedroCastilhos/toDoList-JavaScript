@@ -6,11 +6,11 @@
   </a>
 </p>
 
-<img src="https://github.com/PedroCastilhos/cracha/blob/main/printscreen.png?raw=true" alt="Crachá">
+<img src="https://github.com/PedroCastilhos/toDoList-JavaScript/blob/main/printscreen.png?raw=true" alt="List image">
 
 ## 💻 Project
 
-This project is a badge made at the Rocketseat NWL Heat event.
+This project is a To do List create in JavaScript.
 
 ## ✨ Technologies
 
@@ -24,4 +24,4 @@ This project was developed with the technologies above:
 
 - Clone the repository
 - Execute the file 'index.html'
-- Or click on this [link](https://pedrocastilhos.github.io/cracha/)
+- Or click on this [link](https://pedrocastilhos.github.io/toDoList-JavaScript/)
